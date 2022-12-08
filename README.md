@@ -1,5 +1,5 @@
 # Gonetwa
 
-Support
+Support [https://gonetwa.github.io/Gonetwa/support]
 
-Policy
+Policy [https://gonetwa.github.io/Gonetwa/policy]
