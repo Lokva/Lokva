@@ -1,4 +1,4 @@
-# Gonetwa
+# Lokva
 
 [Support](https://gonetwa.github.io/Gonetwa/support)
 
