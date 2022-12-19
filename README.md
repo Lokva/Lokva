@@ -1,5 +1,5 @@
 # Lokva
 
-[Support](https://gonetwa.github.io/Gonetwa/support)
+[Support](https://lokva.github.io/Lokva/support/)
 
-[Policy](https://gonetwa.github.io/Gonetwa/policy)
+[Policy](https://lokva.github.io/Lokva/policy/)
